@@ -14,11 +14,10 @@ logging.basicConfig(
 
 # CONFIGURATION #
 poppler_path = r'' # Path to Poppler
-start_dir = 'C:/BEM/Matkakeskus-Henkiloliikenne' # Path to searched root folder
+start_dir = '' # Path to searched root folder
 file_types = ['.pdf'] # Filetypes to be searched
-search_words = ['Matkakeskus', 'MATKAKESKUS', 'Henkilöliikenne',
-                'HENKILÖLIIKENNE', 'JYVÄSKYLÄN MATKAKESKUS', 'Jyväskylän Matkakeskus'] # Words that script looks for
-destination_directory = 'C:/BEM/mkeskus' # Root folder where new folder structure will be created
+search_words = [''] # Words that script looks for
+destination_directory = '' # Root folder where new folder structure will be created
 
 
 # Create necessary directories
