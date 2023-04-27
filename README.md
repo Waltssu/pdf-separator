@@ -4,7 +4,7 @@ This script searches a directory and its subdirectories for PDF files containing
 
 If a PDF file is found with the required text, the script moves it to a specified destination directory. The script also creates the necessary directory structure in the destination directory.
 
-### 1. Prerequisites
+### Prerequisites
 
 The script requires the following packages to be installed:
 
@@ -12,15 +12,22 @@ The script requires the following packages to be installed:
 - pytesseract
 - poppler
 
-#### 2. Installation
+### Planned features
+
+- Compability to search for multiple files, for example:
+   - DWG
+   - Word documents
+   - Excel spreadsheets
+   - etc.
+
+#### Installation
 
 - Install the required packages using pip:
    ```
     pip install pdf2image pytesseract
-    ```
+   ```
 
-
-##### 2.2. Download and install Poppler from [here](https://blog.alivate.com.au/poppler-windows/).
+##### Download and install Poppler from [here](https://blog.alivate.com.au/poppler-windows/).
 
 #### Usage
 
