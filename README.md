@@ -15,7 +15,7 @@ The script requires the following packages to be installed:
 ### Planned features
 
 - Compability to search for multiple files, for example:
-   - DWG
+   - DWG files
    - Word documents
    - Excel spreadsheets
    - etc.
