@@ -27,7 +27,7 @@ The script requires the following packages to be installed:
     pip install pdf2image pytesseract
    ```
 
-##### Download and install Poppler from [here](https://blog.alivate.com.au/poppler-windows/).
+##### Download and install Poppler from [here](https://poppler.freedesktop.org/).
 
 #### Usage
 
