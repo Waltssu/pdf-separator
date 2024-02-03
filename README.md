@@ -1,4 +1,4 @@
-### PDF Separator
+<h1 align="center">PDF Separator</h1>
 
 #### Background story
 Assignment at work to go thru multiple directories filled with .pdf, .xlsx, .dwg etc. files and those needed to be sorted out. This script was created to automatically go thru the files and look for specific keywords and move the files into the correct destination depending on the keyword. _(e.g. property_1 and property_2)_
